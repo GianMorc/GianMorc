@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gianluca Morciano</h1>
-<h3 align="center">I'm a passionate PhD student in AI looking to work for a company that leverages AI and ML to create new exciting products!</h3>
+<h3 align="center">I'm a passionate PhD student in AI looking to work for a company that leverages AI and ML to create new and exciting products!</h3>
 
 - 🔭 I’m currently working on [Real-time object-detection using Yolo v8 and NLP in stock sentiment analysis](https://github.com/GianMorc)
 
