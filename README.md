@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MLFlow, SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GianMorc](https://github.com/GianMorc)
+- 👨‍💻 All of my projects are available at [https://github.com/GianMorc](https://github.com/GianMorc). *NOTE* Due to ongoing projects with academic partners, I cannot fully disclose the scripts of the most recent projects. So you will still find excerpts to showcase my activity.
 
 - 📫 How to reach me **https://www.linkedin.com/in/gianluca-morciano-25a438163/**
 
